@@ -1,0 +1,19 @@
+{
+  "name": "abbas-paypal",
+  "version": "1.0.0",
+  "description": "Discover your financial management with our PayPal-inspired CLI application. Seamlessly handle transactions and balances in your terminal with TypeScript and Node.js.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abbas asad",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
